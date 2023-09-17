@@ -2,7 +2,7 @@
 
 Este é um projeto simples de previsão do tempo que permite aos usuários buscar a temperatura atual de uma cidade e exibir informações relacionadas ao clima.
 ##
-![project-1](https://github.com/joaolouback/Weather/assets/125689387/a60455b4-3917-4274-af67-05058f7d740f)
+![project-1](https://github.com/joaolouback/Weather/assets/125689387/9af9b305-3562-4aa2-9050-1504b631c1ab)
 
 #### Para experimentar o projeto em ação, acesse o site [aqui](https://joaolouback.github.io/Weather/).
 
